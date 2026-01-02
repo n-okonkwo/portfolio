@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+# Django
+db.sqlite3
+.env
+
+# Static build
+staticfiles/
